@@ -1,0 +1,21 @@
+{
+  "name": "Bit-Dream",
+  "version": "1.0.0",
+  "description": "## A Bit Dream.i project",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d UI",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wptechprodigy/Bit-Dream.git"
+  },
+  "keywords": [],
+  "author": "Waheed Afolabi <waheed.freelancer16@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wptechprodigy/Bit-Dream/issues"
+  },
+  "homepage": "https://wptechprodigy.github.io/Bit-Dream"
+}
